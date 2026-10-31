@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Local credentials and editor metadata
+/application-local.properties
+/.freebuff/
